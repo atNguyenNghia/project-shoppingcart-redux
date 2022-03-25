@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# RUN APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To see the demo click on the link [View Demo](https://atnguyennghia.github.io/project-shoppingcart-redux/).
 
 ## Available Scripts
 
