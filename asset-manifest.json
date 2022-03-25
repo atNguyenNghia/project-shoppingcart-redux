@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project-shoppingcart-redux/static/css/main.8e75dee2.chunk.css",
+    "main.js": "/project-shoppingcart-redux/static/js/main.51c731e6.chunk.js",
+    "main.js.map": "/project-shoppingcart-redux/static/js/main.51c731e6.chunk.js.map",
+    "runtime-main.js": "/project-shoppingcart-redux/static/js/runtime-main.36fa1fc6.js",
+    "runtime-main.js.map": "/project-shoppingcart-redux/static/js/runtime-main.36fa1fc6.js.map",
+    "static/js/2.cfc60abd.chunk.js": "/project-shoppingcart-redux/static/js/2.cfc60abd.chunk.js",
+    "static/js/2.cfc60abd.chunk.js.map": "/project-shoppingcart-redux/static/js/2.cfc60abd.chunk.js.map",
+    "static/js/3.5c0356c5.chunk.js": "/project-shoppingcart-redux/static/js/3.5c0356c5.chunk.js",
+    "static/js/3.5c0356c5.chunk.js.map": "/project-shoppingcart-redux/static/js/3.5c0356c5.chunk.js.map",
+    "index.html": "/project-shoppingcart-redux/index.html",
+    "static/css/main.8e75dee2.chunk.css.map": "/project-shoppingcart-redux/static/css/main.8e75dee2.chunk.css.map",
+    "static/js/2.cfc60abd.chunk.js.LICENSE.txt": "/project-shoppingcart-redux/static/js/2.cfc60abd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36fa1fc6.js",
+    "static/js/2.cfc60abd.chunk.js",
+    "static/css/main.8e75dee2.chunk.css",
+    "static/js/main.51c731e6.chunk.js"
+  ]
+}
